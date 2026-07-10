@@ -1,0 +1,2302 @@
+[
+    {
+        "id": 1,
+        "type": "🧩 لغز وتسلية",
+        "question": "يسير بلا رجلين، ولا يدخل إلا بالأذنين فما هو؟",
+        "options": [
+            {
+                "text": "الرسالة",
+                "istrue": false
+            },
+            {
+                "text": "الصوت",
+                "istrue": true
+            },
+            {
+                "text": "الهواء",
+                "istrue": false
+            },
+            {
+                "text": "القطار",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "type": "🧬 العلوم",
+        "question": "ما هو لون دم الأخطبوط؟",
+        "options": [
+            {
+                "text": "أزرق",
+                "istrue": true
+            },
+            {
+                "text": "أخضر",
+                "istrue": false
+            },
+            {
+                "text": "بنفسجي",
+                "istrue": false
+            },
+            {
+                "text": "أحمر",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "type": "⏳ التاريخ",
+        "question": "في أي عام غرقت سفينة تايتانيك الشهيرة؟",
+        "options": [
+            {
+                "text": "1905",
+                "istrue": false
+            },
+            {
+                "text": "1912",
+                "istrue": true
+            },
+            {
+                "text": "1920",
+                "istrue": false
+            },
+            {
+                "text": "1935",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "type": "📚 الأدب",
+        "question": "من هي مؤلفة سلسلة روايات هاري بوتر؟",
+        "options": [
+            {
+                "text": "J.R.R. Tolkien",
+                "istrue": false
+            },
+            {
+                "text": "George R.R. Martin",
+                "istrue": false
+            },
+            {
+                "text": "J.K. Rowling",
+                "istrue": true
+            },
+            {
+                "text": "C.S. Lewis",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "type": "🌌 الفضاء",
+        "question": "ما هو الكوكب الأقرب إلى الشمس في مجموعتنا الشمسية؟",
+        "options": [
+            {
+                "text": "المريخ",
+                "istrue": false
+            },
+            {
+                "text": "الزهرة",
+                "istrue": false
+            },
+            {
+                "text": "عطارد",
+                "istrue": true
+            },
+            {
+                "text": "المشتري",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "type": "⚽ الرياضة",
+        "question": "أي دولة فازت ببطولة كأس العالم لكرة القدم لأول مرة عام 1930؟",
+        "options": [
+            {
+                "text": "البرازيل",
+                "istrue": false
+            },
+            {
+                "text": "الأوروغواي",
+                "istrue": true
+            },
+            {
+                "text": "الأرجنتين",
+                "istrue": false
+            },
+            {
+                "text": "إيطاليا",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "type": "🩺 الطب والتشريح",
+        "question": "ما هو أكبر عضو داخلي في جسم الإنسان؟",
+        "options": [
+            {
+                "text": "الكبد",
+                "istrue": true
+            },
+            {
+                "text": "الرئتان",
+                "istrue": false
+            },
+            {
+                "text": "الأمعاء الغليظة",
+                "istrue": false
+            },
+            {
+                "text": "القلب",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "type": "🏛️ التاريخ العربي",
+        "question": "من هو القائد المسلم الذي فتح الأندلس؟",
+        "options": [
+            {
+                "text": "خالد بن الوليد",
+                "istrue": false
+            },
+            {
+                "text": "طارق بن زياد",
+                "istrue": true
+            },
+            {
+                "text": "صلاح الدين الأيوبي",
+                "istrue": false
+            },
+            {
+                "text": "عمرو بن العاص",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "type": "🧪 الكيمياء",
+        "question": "ما هو الرمز الكيميائي لعنصر الذهب في الجدول الدوري؟",
+        "options": [
+            {
+                "text": "Ag",
+                "istrue": false
+            },
+            {
+                "text": "Fe",
+                "istrue": false
+            },
+            {
+                "text": "Au",
+                "istrue": true
+            },
+            {
+                "text": "Cu",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "type": "💻 التقنية",
+        "question": "ما هي الشركة التكنولوجية التي قامت بتطوير نظام التشغيل أندرويد؟",
+        "options": [
+            {
+                "text": "Apple",
+                "istrue": false
+            },
+            {
+                "text": "Microsoft",
+                "istrue": false
+            },
+            {
+                "text": "Google",
+                "istrue": true
+            },
+            {
+                "text": "Samsung",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "type": "🧩 لغز وتسلية",
+        "question": "ما هو الشيء الذي يقرصك دون أن تراه؟",
+        "options": [
+            {
+                "text": "النملة",
+                "istrue": false
+            },
+            {
+                "text": "البرد",
+                "istrue": false
+            },
+            {
+                "text": "الجوع",
+                "istrue": true
+            },
+            {
+                "text": "الناموس",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "type": "🧬 العلوم",
+        "question": "ما هو الغاز الأكثر وفرة في الغلاف الجوي للأرض؟",
+        "options": [
+            {
+                "text": "الأكسجين",
+                "istrue": false
+            },
+            {
+                "text": "النيتروجين",
+                "istrue": true
+            },
+            {
+                "text": "ثاني أكسيد الكربون",
+                "istrue": false
+            },
+            {
+                "text": "الهيدروجين",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "type": "⏳ التاريخ",
+        "question": "في أي عام انتهت الحرب العالمية الثانية؟",
+        "options": [
+            {
+                "text": "1939",
+                "istrue": false
+            },
+            {
+                "text": "1943",
+                "istrue": false
+            },
+            {
+                "text": "1945",
+                "istrue": true
+            },
+            {
+                "text": "1950",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "type": "📚 الأدب",
+        "question": "من هو صاحب مسرحية روميو وجولييت الشهيرة؟",
+        "options": [
+            {
+                "text": "ويليام شكسبير",
+                "istrue": true
+            },
+            {
+                "text": "تشارلز ديكنز",
+                "istrue": false
+            },
+            {
+                "text": "أغاثا كريستي",
+                "istrue": false
+            },
+            {
+                "text": "فيكتور هوغو",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "type": "🌌 الفضاء",
+        "question": "ما هو أكبر كوكب في مجموعتنا الشمسية؟",
+        "options": [
+            {
+                "text": "زحل",
+                "istrue": false
+            },
+            {
+                "text": "المشتري",
+                "istrue": true
+            },
+            {
+                "text": "الأرض",
+                "istrue": false
+            },
+            {
+                "text": "نبتون",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "type": "⚽ الرياضة",
+        "question": "كم عدد اللاعبين في فريق كرة السلة داخل الملعب؟",
+        "options": [
+            {
+                "text": "5 لاعبين",
+                "istrue": true
+            },
+            {
+                "text": "6 لاعبين",
+                "istrue": false
+            },
+            {
+                "text": "7 لاعبين",
+                "istrue": false
+            },
+            {
+                "text": "11 لاعب",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "type": "🩺 الطب والتشريح",
+        "question": "كم عدد صمامات قلب الإنسان؟",
+        "options": [
+            {
+                "text": "صمامان",
+                "istrue": false
+            },
+            {
+                "text": "3 صمامات",
+                "istrue": false
+            },
+            {
+                "text": "4 صمامات",
+                "istrue": true
+            },
+            {
+                "text": "5 صمامات",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "type": "🏛️ التاريخ العربي",
+        "question": "ما هي عاصمة الدولة الأموية؟",
+        "options": [
+            {
+                "text": "بغداد",
+                "istrue": false
+            },
+            {
+                "text": "القاهرة",
+                "istrue": false
+            },
+            {
+                "text": "مكة المكرمة",
+                "istrue": false
+            },
+            {
+                "text": "دمشق",
+                "istrue": true
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "type": "🧪 الكيمياء",
+        "question": "ما هو العنصر الكيميائي الذي يمثله الرمز O في الجدول الدوري؟",
+        "options": [
+            {
+                "text": "الأكسجين",
+                "istrue": true
+            },
+            {
+                "text": "الأوزون",
+                "istrue": false
+            },
+            {
+                "text": "الذهب",
+                "istrue": false
+            },
+            {
+                "text": "الحديد",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "type": "💻 التقنية",
+        "question": "ما هي لغة البرمجة التي تُستخدم بشكل أساسي لتصميم صفحات الويب التفاعلية؟",
+        "options": [
+            {
+                "text": "Python",
+                "istrue": false
+            },
+            {
+                "text": "C++",
+                "istrue": false
+            },
+            {
+                "text": "JavaScript",
+                "istrue": true
+            },
+            {
+                "text": "SQL",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "type": "🧩 لغز وتسلية",
+        "question": "ما هو الشيء الذي يتحدث جميع اللغات ولكنه لا يملك لساناً؟",
+        "options": [
+            {
+                "text": "الكتاب",
+                "istrue": false
+            },
+            {
+                "text": "صدى الصوت",
+                "istrue": true
+            },
+            {
+                "text": "الراديو",
+                "istrue": false
+            },
+            {
+                "text": "الهاتف المحمول",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "type": "🧬 العلوم",
+        "question": "أي من هذه الحيوانات يُصنف من الثدييات بالرغم من أنه يعيش في الماء؟",
+        "options": [
+            {
+                "text": "الدلفين",
+                "istrue": true
+            },
+            {
+                "text": "قرش الحوت",
+                "istrue": false
+            },
+            {
+                "text": "الأخطبوط",
+                "istrue": false
+            },
+            {
+                "text": "فرس البحر",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "type": "⏳ التاريخ",
+        "question": "من هو أول رئيس للولايات المتحدة الأمريكية؟",
+        "options": [
+            {
+                "text": "أبراهام لينكون",
+                "istrue": false
+            },
+            {
+                "text": "توماس جيفرسون",
+                "istrue": false
+            },
+            {
+                "text": "جورج واشنطن",
+                "istrue": true
+            },
+            {
+                "text": "جون كينيدي",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "type": "📚 الأدب",
+        "question": "ما هي الرواية الشهيرة التي ألفها الكاتب الفرنسي صامويل بيكيت؟",
+        "options": [
+            {
+                "text": "في انتظار غودو",
+                "istrue": true
+            },
+            {
+                "text": "البؤساء",
+                "istrue": false
+            },
+            {
+                "text": "الجريمة والعقاب",
+                "istrue": false
+            },
+            {
+                "text": "مئة عام من العزلة",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "type": "🌌 الفضاء",
+        "question": "ما هي المجرة الحلزونية التي ينتمي إليها كوكب الأرض؟",
+        "options": [
+            {
+                "text": "مجرة أندروما",
+                "istrue": false
+            },
+            {
+                "text": "مجرة درب التبانة",
+                "istrue": true
+            },
+            {
+                "text": "مجرة المثلث",
+                "istrue": false
+            },
+            {
+                "text": "مجرة سمرقند",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "type": "⚽ الرياضة",
+        "question": "كم عدد بطولات كأس العالم التي فاز بها المنتخب البرازيلي حتى الآن؟",
+        "options": [
+            {
+                "text": "3 بطولات",
+                "istrue": false
+            },
+            {
+                "text": "4 بطولات",
+                "istrue": false
+            },
+            {
+                "text": "5 بطولات",
+                "istrue": true
+            },
+            {
+                "text": "6 بطولات",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "type": "🩺 الطب والتشريح",
+        "question": "أي فصيلة دم تُعرف بـ 'المتبرع العام' لأنها تمنح لجميع الفصائل الأخرى؟",
+        "options": [
+            {
+                "text": "A+",
+                "istrue": false
+            },
+            {
+                "text": "B-",
+                "istrue": false
+            },
+            {
+                "text": "AB+",
+                "istrue": false
+            },
+            {
+                "text": "O-",
+                "istrue": true
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "type": "🏛️ التاريخ العربي",
+        "question": "من هو مؤسس الدولة العباسية؟",
+        "options": [
+            {
+                "text": "أبو العباس السفاح",
+                "istrue": true
+            },
+            {
+                "text": "هارون الرشيد",
+                "istrue": false
+            },
+            {
+                "text": "أبو جعفر المنصور",
+                "istrue": false
+            },
+            {
+                "text": "المأمون",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "type": "🧪 الكيمياء",
+        "question": "ما هي المادة التي تُشكل المكون الأساسي للماس؟",
+        "options": [
+            {
+                "text": "السيليكون",
+                "istrue": false
+            },
+            {
+                "text": "الكربون",
+                "istrue": true
+            },
+            {
+                "text": "الهيدروجين",
+                "istrue": false
+            },
+            {
+                "text": "الحديد",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "type": "💻 التقنية",
+        "question": " ؟Wi-Fi ماذا تعني اختصار خدمة الإنترنت اللاسلكية المعروفة باسم",
+        "options": [
+            {
+                "text": "Wireless Fidelity",
+                "istrue": true
+            },
+            {
+                "text": "Wide Fiber",
+                "istrue": false
+            },
+            {
+                "text": "Web Finder",
+                "istrue": false
+            },
+            {
+                "text": "Windows Fix",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "type": "🧩 لغز وتسلية",
+        "question": "ابن أمك وابن أبيك، وليس بأختك ولا بأخيك، فمن يكون؟",
+        "options": [
+            {
+                "text": "خالك",
+                "istrue": false
+            },
+            {
+                "text": "عمك",
+                "istrue": false
+            },
+            {
+                "text": "أنت",
+                "istrue": true
+            },
+            {
+                "text": "صديقك",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "type": "🧬 العلوم",
+        "question": "ما هو أسرع حيوان بري في العالم؟",
+        "options": [
+            {
+                "text": "الأسد",
+                "istrue": false
+            },
+            {
+                "text": "الفهد (الشيتا)",
+                "istrue": true
+            },
+            {
+                "text": "النمر",
+                "istrue": false
+            },
+            {
+                "text": "الغزال",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "type": "⏳ التاريخ",
+        "question": "أي حضارة قديمة قامت ببناء الأهرامات وأبو الهول؟",
+        "options": [
+            {
+                "text": "الحضارة البابلية",
+                "istrue": false
+            },
+            {
+                "text": "الحضارة الفرعونية",
+                "istrue": true
+            },
+            {
+                "text": "الحضارة الرومانية",
+                "istrue": false
+            },
+            {
+                "text": "الحضارة الإغريقية",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "type": "📚 الأدب",
+        "question": "ما هو الاسم المستعار للشاعر العربي الشهير أحمد بن الحسين؟",
+        "options": [
+            {
+                "text": "أبو نواس",
+                "istrue": false
+            },
+            {
+                "text": "أحمد شوقي",
+                "istrue": false
+            },
+            {
+                "text": "المتنبي",
+                "istrue": true
+            },
+            {
+                "text": "نزار قباني",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "type": "🌌 الفضاء",
+        "question": "كم يستغرق ضوء الشمس تقريباً للوصول إلى كوكب الأرض؟",
+        "options": [
+            {
+                "text": "8 ثوانٍ",
+                "istrue": false
+            },
+            {
+                "text": "8 دقائق",
+                "istrue": true
+            },
+            {
+                "text": "8 ساعات",
+                "istrue": false
+            },
+            {
+                "text": "سنة ضوئية كاملة",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "type": "⚽ الرياضة",
+        "question": "في أي مدينة أقيمت أول دورة ألعاب أولمبية حديثة عام 1896؟",
+        "options": [
+            {
+                "text": "باريس",
+                "istrue": false
+            },
+            {
+                "text": "لندن",
+                "istrue": false
+            },
+            {
+                "text": "روما",
+                "istrue": false
+            },
+            {
+                "text": "أثينا",
+                "istrue": true
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "type": "🩺 الطب والتشريح",
+        "question": "ما هي المادة المسؤول الأول عن منح الجلد والعينين والشعر لونهم الطبيعي؟",
+        "options": [
+            {
+                "text": "الكولاجين",
+                "istrue": false
+            },
+            {
+                "text": "الميلانين",
+                "istrue": true
+            },
+            {
+                "text": "الكيراتين",
+                "istrue": false
+            },
+            {
+                "text": "الأنسولين",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "type": "🏛️ التاريخ العربي",
+        "question": "في أي مدينة وُلد المؤرخ والفيلسوف الشهير ابن خلدون؟",
+        "options": [
+            {
+                "text": "تونس",
+                "istrue": true
+            },
+            {
+                "text": "فاس",
+                "istrue": false
+            },
+            {
+                "text": "غرناطة",
+                "istrue": false
+            },
+            {
+                "text": "دمشق",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "type": "🧪 الكيمياء",
+        "question": "ما هو الاسم الشائع لمركب كلوريد الصوديوم؟",
+        "options": [
+            {
+                "text": "ملح الطعام",
+                "istrue": true
+            },
+            {
+                "text": "السكر الطبيعي",
+                "istrue": false
+            },
+            {
+                "text": "البيكنج صودا",
+                "istrue": false
+            },
+            {
+                "text": "الخل الأبيض",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "type": "💻 التقنية",
+        "question": "ما هو نظام التشفير الذي يحمي أمن بيانات مواقع الويب ويبدأ رابطه بـ https؟",
+        "options": [
+            {
+                "text": "SSL/TLS",
+                "istrue": true
+            },
+            {
+                "text": "FTP",
+                "istrue": false
+            },
+            {
+                "text": "DNS",
+                "istrue": false
+            },
+            {
+                "text": "IPSEC",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "type": "🧩 لغز وتسلية",
+        "question": "ما هو الشيء الذي كلما أخذت منه كَبُر وكلما أضفت إليه صَغُر؟",
+        "options": [
+            {
+                "text": "الحفرة",
+                "istrue": true
+            },
+            {
+                "text": "العمر",
+                "istrue": false
+            },
+            {
+                "text": "البحر",
+                "istrue": false
+            },
+            {
+                "text": "المال",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "type": "🧬 العلوم",
+        "question": "أي من النباتات التالية يُعتبر من النباتات آكلة اللحوم (الحشرات)؟",
+        "options": [
+            {
+                "text": "خناق الذباب (الديونيا)",
+                "istrue": true
+            },
+            {
+                "text": "الصبار الشوكي",
+                "istrue": false
+            },
+            {
+                "text": "تباع الشمس",
+                "istrue": false
+            },
+            {
+                "text": "السرخس",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "type": "⏳ التاريخ",
+        "question": "ما هي المدينة التاريخية التي كانت تُعرف قديماً باسم 'القسطنطينية'؟",
+        "options": [
+            {
+                "text": "أثينا",
+                "istrue": false
+            },
+            {
+                "text": "روما",
+                "istrue": false
+            },
+            {
+                "text": "إسطنبول",
+                "istrue": true
+            },
+            {
+                "text": "القاهرة",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "type": "📚 الأدب",
+        "question": "من هو الكاتب الروسي مؤلف الرواية الشهيرة 'الحرب والسلم'؟",
+        "options": [
+            {
+                "text": "فيودور دوستويفسكي",
+                "istrue": false
+            },
+            {
+                "text": "ليو تولستوي",
+                "istrue": true
+            },
+            {
+                "text": "أنطوان تشيخوف",
+                "istrue": false
+            },
+            {
+                "text": "فلاديمير نابوكوف",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "type": "🌌 الفضاء",
+        "question": "ما هو الكوكب الذي يُعرف في مجموعتنا الشمسية باسم 'الكوكب الأحمر'؟",
+        "options": [
+            {
+                "text": "المريخ",
+                "istrue": true
+            },
+            {
+                "text": "الزهرة",
+                "istrue": false
+            },
+            {
+                "text": "عطارد",
+                "istrue": false
+            },
+            {
+                "text": "زحل",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "type": "⚽ الرياضة",
+        "question": "كم عدد أشواط مباراة كرة القدم الرسمية بدون الأشواط الإضافية؟",
+        "options": [
+            {
+                "text": "شوط واحد",
+                "istrue": false
+            },
+            {
+                "text": "شوطان",
+                "istrue": true
+            },
+            {
+                "text": "4 أشواط",
+                "istrue": false
+            },
+            {
+                "text": "3 أشواط",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "type": "🩺 الطب والتشريح",
+        "question": "كم عدد عظام جسم الإنسان البالغ تقريباً؟",
+        "options": [
+            {
+                "text": "206 عظمة",
+                "istrue": true
+            },
+            {
+                "text": "300 عظمة",
+                "istrue": false
+            },
+            {
+                "text": "150 عظمة",
+                "istrue": false
+            },
+            {
+                "text": "250 عظمة",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "type": "🏛️ التاريخ العربي",
+        "question": "من هو القائد الذي أسس الدولة الأيوبية وهزم الصليبيين في معركة حطين؟",
+        "options": [
+            {
+                "text": "نور الدين زنكي",
+                "istrue": false
+            },
+            {
+                "text": "صلاح الدين الأيوبي",
+                "istrue": true
+            },
+            {
+                "text": "الظاهر بيبرس",
+                "istrue": false
+            },
+            {
+                "text": "سيف الدين قطز",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "type": "🧪 الكيمياء",
+        "question": "ما هو الغاز الذي يتكون منه مركب الماء بجانب الأكسجين؟",
+        "options": [
+            {
+                "text": "النيتروجين",
+                "istrue": false
+            },
+            {
+                "text": "الهيدروجين",
+                "istrue": true
+            },
+            {
+                "text": "الهيليوم",
+                "istrue": false
+            },
+            {
+                "text": "الأوزون",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "type": "💻 التقنية",
+        "question": "أي من الشركات التالية قامت بابتكار وتطوير هاتف 'آيفون' الذكي؟",
+        "options": [
+            {
+                "text": "Microsoft",
+                "istrue": false
+            },
+            {
+                "text": "Google",
+                "istrue": false
+            },
+            {
+                "text": "Apple",
+                "istrue": true
+            },
+            {
+                "text": "Sony",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "type": "🧩 لغز وتسلية",
+        "question": "يمشي ويقف وليس له أرجل، فما هو؟",
+        "options": [
+            {
+                "text": "السحاب",
+                "istrue": false
+            },
+            {
+                "text": "الماء",
+                "istrue": false
+            },
+            {
+                "text": "الحذاء",
+                "istrue": false
+            },
+            {
+                "text": "الساعة",
+                "istrue": true
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "type": "🧬 العلوم",
+        "question": "ما هي المادة التي تصنع منها الطيور أعشاشها وتفرزها من لعابها في بعض الأنواع؟",
+        "options": [
+            {
+                "text": "البروتين اللعابي",
+                "istrue": true
+            },
+            {
+                "text": "الشمع",
+                "istrue": false
+            },
+            {
+                "text": "الصمغ الشجري",
+                "istrue": false
+            },
+            {
+                "text": "الحرير",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "type": "⏳ التاريخ",
+        "question": "أي دولة قامت بإهداء تمثال الحرية الشهير إلى الولايات المتحدة الأمريكية؟",
+        "options": [
+            {
+                "text": "المملكة المتحدة",
+                "istrue": false
+            },
+            {
+                "text": "فرنسا",
+                "istrue": true
+            },
+            {
+                "text": "ألمانيا",
+                "istrue": false
+            },
+            {
+                "text": "إيطاليا",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "type": "📚 الأدب",
+        "question": "من هو الشاعر الجاهلي صاحب المعلقة التي تبدأ بـ 'عـفَتِ الدِّيَارُ مَحَلُّهَا فَمُقَامُهَا'؟",
+        "options": [
+            {
+                "text": "امرؤ القيس",
+                "istrue": false
+            },
+            {
+                "text": "عنترة بن شداد",
+                "istrue": false
+            },
+            {
+                "text": "لبيد بن ربيعة",
+                "istrue": true
+            },
+            {
+                "text": "زهير بن أبي سلمى",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "type": "🌌 الفضاء",
+        "question": "ما هو الاسم العلمي للقمر التابع لكوكب الأرض؟",
+        "options": [
+            {
+                "text": "لونا (Luna)",
+                "istrue": true
+            },
+            {
+                "text": "فوبوس",
+                "istrue": false
+            },
+            {
+                "text": "تيتان",
+                "istrue": false
+            },
+            {
+                "text": "أوروبا",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "type": "⚽ الرياضة",
+        "question": "في أي رياضة يُستخدم مصطلح 'الضربة الساحقة' و'الإرسال الساحق' بشكل متكرر؟",
+        "options": [
+            {
+                "text": "كرة الطاولة",
+                "istrue": false
+            },
+            {
+                "text": "التنس الأرضي",
+                "istrue": true
+            },
+            {
+                "text": "كرة اليد",
+                "istrue": false
+            },
+            {
+                "text": "البيسبول",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "type": "🩺 الطب والتشريح",
+        "question": "ما هي الغدة في جسم الإنسان المسؤولة عن تنظيم عملية التمثيل الغذائي (الأيض)؟",
+        "options": [
+            {
+                "text": "الغدة النخامية",
+                "istrue": false
+            },
+            {
+                "text": "الغدة الدرقية",
+                "istrue": true
+            },
+            {
+                "text": "الغدة الكظرية",
+                "istrue": false
+            },
+            {
+                "text": "البنكرياس",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "type": "🏛️ التاريخ العربي",
+        "question": "من هو الخليفة الراشدي الثالث الذي جُمع في عهده القرآن الكريم في مصحف واحد؟",
+        "options": [
+            {
+                "text": "أبو بكر الصديق",
+                "istrue": false
+            },
+            {
+                "text": "عمر بن الخطاب",
+                "istrue": false
+            },
+            {
+                "text": "عثمان بن عفان",
+                "istrue": true
+            },
+            {
+                "text": "علي بن أبي طالب",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "type": "🧪 الكيمياء",
+        "question": "ما هي درجة الحموضة (pH) للماء النقي المتعادل؟",
+        "options": [
+            {
+                "text": "0",
+                "istrue": false
+            },
+            {
+                "text": "5",
+                "istrue": false
+            },
+            {
+                "text": "7",
+                "istrue": true
+            },
+            {
+                "text": "14",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "type": "💻 التقنية",
+        "question": "ما هي وحدة قياس سرعة المعالجة المركزية (CPU) في الحواسيب الحديثة؟",
+        "options": [
+            {
+                "text": "الجيجاهيرتز (GHz)",
+                "istrue": true
+            },
+            {
+                "text": "الجيجابايت (GB)",
+                "istrue": false
+            },
+            {
+                "text": "الوات (Watt)",
+                "istrue": false
+            },
+            {
+                "text": "البكسل (Pixel)",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "type": "🧩 لغز وتسلية",
+        "question": "ما هو الشيء الذي تصنعه ولا تراه، وإذا رأيته لا ترتديه، وإذا ارتديته لا تراه؟",
+        "options": [
+            {
+                "text": "الحذاء",
+                "istrue": false
+            },
+            {
+                "text": "الكفن",
+                "istrue": true
+            },
+            {
+                "text": "الملابس الداخلية",
+                "istrue": false
+            },
+            {
+                "text": "النظارة الشمسية",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "type": "🧬 العلوم",
+        "question": "أي من هذه الطيور يُعتبر الطائر الوحيد الذي يمكنه الطيران إلى الخلف؟",
+        "options": [
+            {
+                "text": "طائر الطنان",
+                "istrue": true
+            },
+            {
+                "text": "الهدهد",
+                "istrue": false
+            },
+            {
+                "text": "النسر الذهبي",
+                "istrue": false
+            },
+            {
+                "text": "البومة البيضاء",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "type": "⏳ التاريخ",
+        "question": "في أي مدينة يقع قصر فرساي الشهير؟",
+        "options": [
+            {
+                "text": "لندن",
+                "istrue": false
+            },
+            {
+                "text": "روما",
+                "istrue": false
+            },
+            {
+                "text": "برلين",
+                "istrue": false
+            },
+            {
+                "text": "باريس",
+                "istrue": true
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "type": "📚 الأدب",
+        "question": "من هو مؤلف رواية 'البؤساء' التاريخية الشهيرة؟",
+        "options": [
+            {
+                "text": "فيكتور هوغو",
+                "istrue": true
+            },
+            {
+                "text": "ألكسندر دوما",
+                "istrue": false
+            },
+            {
+                "text": "غابرييل غارسيا ماركيز",
+                "istrue": false
+            },
+            {
+                "text": "أنطوان دي سانت إكزوبيري",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "type": "🌌 الفضاء",
+        "question": "ما هو الكوكب الأشد حرارة في مجموعتنا الشمسية رغم أنه ليس الأقرب للشمس؟",
+        "options": [
+            {
+                "text": "عطارد",
+                "istrue": false
+            },
+            {
+                "text": "الزهرة",
+                "istrue": true
+            },
+            {
+                "text": "المريخ",
+                "istrue": false
+            },
+            {
+                "text": "المشتري",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "type": "⚽ الرياضة",
+        "question": "كم عدد اللاعبين الإجمالي لكلا الفريقين داخل الملعب في مباراة كرة الطائرة؟",
+        "options": [
+            {
+                "text": "10 لاعبين",
+                "istrue": false
+            },
+            {
+                "text": "11 لاعباً",
+                "istrue": false
+            },
+            {
+                "text": "12 لاعباً",
+                "istrue": true
+            },
+            {
+                "text": "14 لاعباً",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "type": "🩺 الطب والتشريح",
+        "question": "ما هو العضو المسؤول عن تصفية الدم من السموم وإنتاج العصارة الصفراوية؟",
+        "options": [
+            {
+                "text": "الكلى",
+                "istrue": false
+            },
+            {
+                "text": "الكبد",
+                "istrue": true
+            },
+            {
+                "text": "الطحال",
+                "istrue": false
+            },
+            {
+                "text": "المعدة",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "type": "🏛️ التاريخ العربي",
+        "question": "ما هي عاصمة الدولة العباسية في أوج ازدهارها؟",
+        "options": [
+            {
+                "text": "دمشق",
+                "istrue": false
+            },
+            {
+                "text": "القاهرة",
+                "istrue": false
+            },
+            {
+                "text": "بغداد",
+                "istrue": true
+            },
+            {
+                "text": "القيروان",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "type": "🧪 الكيمياء",
+        "question": "ما هو الغاز النبيل الخامل الذي يُستخدم عادة لإضاءة اللوحات الإعلانية؟",
+        "options": [
+            {
+                "text": "النيون",
+                "istrue": true
+            },
+            {
+                "text": "الأكسجين",
+                "istrue": false
+            },
+            {
+                "text": "الهيدروجين",
+                "istrue": false
+            },
+            {
+                "text": "الكلور",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "type": "💻 التقنية",
+        "question": "ماذا تعني الصيغة الاختصارية 'PDF' الشائعة للمستندات الإلكترونية؟",
+        "options": [
+            {
+                "text": "Portable Document Format",
+                "istrue": true
+            },
+            {
+                "text": "Personal Data File",
+                "istrue": false
+            },
+            {
+                "text": "Print Document File",
+                "istrue": false
+            },
+            {
+                "text": "Page Definition Format",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "type": "🧩 لغز وتسلية",
+        "question": "ما هو الشيء الذي له عين واحدة لكنه لا يرى بها شيئاً؟",
+        "options": [
+            {
+                "text": "الإبرة",
+                "istrue": true
+            },
+            {
+                "text": "العاصفة",
+                "istrue": false
+            },
+            {
+                "text": "الدبوس",
+                "istrue": false
+            },
+            {
+                "text": "البوصلة",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "type": "🧬 العلوم",
+        "question": "ما هو أقوى شريان في جسم الإنسان ويقوم بنقل الدم من القلب إلى بقية الجسم؟",
+        "options": [
+            {
+                "text": "الشريان الرئوي",
+                "istrue": false
+            },
+            {
+                "text": "الشريان الأبهر (الأورطي)",
+                "istrue": true
+            },
+            {
+                "text": "الشريان السباتي",
+                "istrue": false
+            },
+            {
+                "text": "الشريان الفخذي",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "type": "⏳ التاريخ",
+        "question": "ما هي الدولة التي كانت مركزاً للحضارة الإنكا القديمة؟",
+        "options": [
+            {
+                "text": "المكسيك",
+                "istrue": false
+            },
+            {
+                "text": "البيرو",
+                "istrue": true
+            },
+            {
+                "text": "البرازيل",
+                "istrue": false
+            },
+            {
+                "text": "مصر",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "type": "📚 الأدب",
+        "question": "ما هو الاسم الحقيقي للكاتب والشاعر الشهير 'أدونيس'؟",
+        "options": [
+            {
+                "text": "علي أحمد سعيد إسبر",
+                "istrue": true
+            },
+            {
+                "text": "جبران خليل جبران",
+                "istrue": false
+            },
+            {
+                "text": "محمود درويش",
+                "istrue": false
+            },
+            {
+                "text": "بدر شاكر السياب",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "type": "🌌 الفضاء",
+        "question": "ما هو الكوكب الذي يمتلك نظام حلقات شهيراً وواضحاً جداً يحيط به؟",
+        "options": [
+            {
+                "text": "المشتري",
+                "istrue": false
+            },
+            {
+                "text": "المريخ",
+                "istrue": false
+            },
+            {
+                "text": "زحل",
+                "istrue": true
+            },
+            {
+                "text": "أورانوس",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "type": "⚽ الرياضة",
+        "question": "من هو اللاعب الذي يحمل الرقم القياسي كأكثر من سجل أهدافاً في تاريخ كأس العالم؟",
+        "options": [
+            {
+                "text": "بيليه",
+                "istrue": false
+            },
+            {
+                "text": "ميروسلاف كلوزه",
+                "istrue": true
+            },
+            {
+                "text": "رونالدو النازاريو",
+                "istrue": false
+            },
+            {
+                "text": "ليونيل ميسي",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "type": "🩺 الطب والتشريح",
+        "question": "ما هو الاسم العلمي لـ 'خلايا الدم البيضاء' في جسم الإنسان؟",
+        "options": [
+            {
+                "text": "اللوكوسيتات (Leukocytes)",
+                "istrue": true
+            },
+            {
+                "text": "الإريثروسيتات (Erythrocytes)",
+                "istrue": false
+            },
+            {
+                "text": "الثرومبوسيتات (Thrombocytes)",
+                "istrue": false
+            },
+            {
+                "text": "البلاتليتس (Platelets)",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "type": "🏛️ التاريخ العربي",
+        "question": "من هو الملك التَّبَع اليماني الذي ذكرته المصادر التاريخية بكسوة الكعبة لأول مرة؟",
+        "options": [
+            {
+                "text": "أسعد الكامل (أبو كرب)",
+                "istrue": true
+            },
+            {
+                "text": "سيف بن ذي يزن",
+                "istrue": false
+            },
+            {
+                "text": "عمرو بن لحي",
+                "istrue": false
+            },
+            {
+                "text": "ذو نواس",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "type": "🧪 الكيمياء",
+        "question": "ما هو الرمز الكيميائي لعنصر الفضة في الجدول الدوري؟",
+        "options": [
+            {
+                "text": "Si",
+                "istrue": false
+            },
+            {
+                "text": "Au",
+                "istrue": false
+            },
+            {
+                "text": "Ag",
+                "istrue": true
+            },
+            {
+                "text": "Fe",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "type": "💻 التقنية",
+        "question": "ما هو الاسم البرمجي لأول متصفح إنترنت تم تطويره وإتاحته بشكل تجاري واسع؟",
+        "options": [
+            {
+                "text": "Mosaic / Netscape",
+                "istrue": true
+            },
+            {
+                "text": "Internet Explorer",
+                "istrue": false
+            },
+            {
+                "text": "Google Chrome",
+                "istrue": false
+            },
+            {
+                "text": "Safari",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "type": "🧩 لغز وتسلية",
+        "question": "أنا موجود في الشتاء خمس مرات، وفي الصيف ثلاث مرات، فمن أنا؟",
+        "options": [
+            {
+                "text": "حرف النقاط",
+                "istrue": false
+            },
+            {
+                "text": "النقاط على الحروف",
+                "istrue": false
+            },
+            {
+                "text": "درجة الحرارة",
+                "istrue": false
+            },
+            {
+                "text": "حرف النقاط (النقاط في كلمتي الشتاء والصيف)",
+                "istrue": true
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "type": "🧬 العلوم",
+        "question": "ما هو الحيوان الوحيد الذي يمتلك أربعة ركب؟",
+        "options": [
+            {
+                "text": "الزرافة",
+                "istrue": false
+            },
+            {
+                "text": "الفيل",
+                "istrue": true
+            },
+            {
+                "text": "الجمل",
+                "istrue": false
+            },
+            {
+                "text": "وحيد القرن",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "type": "⏳ التاريخ",
+        "question": "من هو القائد القرطاجي الشهير الذي عبر جبال الألب بالفيلة لمهاجمة روما؟",
+        "options": [
+            {
+                "text": "Hannibal (حنا بعل)",
+                "istrue": true
+            },
+            {
+                "text": "يوليوس قيصر",
+                "istrue": false
+            },
+            {
+                "text": "الإسكندر الأكبر",
+                "istrue": false
+            },
+            {
+                "text": "سبارتاكوس",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "type": "📚 الأدب",
+        "question": "ما هي الرواية الملحمية الشهيرة للكاتب البرتغالي جوزيه ساراماغو؟",
+        "options": [
+            {
+                "text": "العمى",
+                "istrue": true
+            },
+            {
+                "text": "الخيميائي",
+                "istrue": false
+            },
+            {
+                "text": "اسم الوردة",
+                "istrue": false
+            },
+            {
+                "text": "قواعد العشق الأربعون",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "type": "🌌 الفضاء",
+        "question": "ما هو الاسم الشائع للمنطقة في الفضاء التي تتميز بجاذبية فائقة تمنع الضوء نفسه من الهروب؟",
+        "options": [
+            {
+                "text": "الثقب الأسود",
+                "istrue": true
+            },
+            {
+                "text": "السديم",
+                "istrue": false
+            },
+            {
+                "text": "القزم الأبيض",
+                "istrue": false
+            },
+            {
+                "text": "المستعر الأعظم",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "type": "⚽ الرياضة",
+        "question": "من هو المنتخب العربي الوحيد الذي تأهل إلى الدور نصف النهائي في تاريخ كأس العالم لكرة القدم؟",
+        "options": [
+            {
+                "text": "المنتخب السعودي",
+                "istrue": false
+            },
+            {
+                "text": "المنتخب المغربي",
+                "istrue": true
+            },
+            {
+                "text": "المنتخب الجزائري",
+                "istrue": false
+            },
+            {
+                "text": "المنتخب المصري",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "type": "🩺 الطب والتشريح",
+        "question": "ما هو أصغر عظم في جسم الإنسان ويقع داخل الأذن الوسطى؟",
+        "options": [
+            {
+                "text": "عظمة الركاب",
+                "istrue": true
+            },
+            {
+                "text": "عظمة المطرقة",
+                "istrue": false
+            },
+            {
+                "text": "عظمة السندان",
+                "istrue": false
+            },
+            {
+                "text": "عظمة الترقوة",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "type": "🏛️ التاريخ العربي",
+        "question": "ما هي المعركة الشهيرة التي انتصر فيها المسلمون بقيادة سيف الدين قطز على المغول عام 1260م؟",
+        "options": [
+            {
+                "text": "معركة القادسية",
+                "istrue": false
+            },
+            {
+                "text": "معركة حطين",
+                "istrue": false
+            },
+            {
+                "text": "معركة عين جالوت",
+                "istrue": true
+            },
+            {
+                "text": "معركة اليرموك",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "type": "🧪 الكيمياء",
+        "question": "ما هو العنصر الكيميائي السائل في درجة حرارة الغرفة القياسية ويُستخدم في موازين الحرارة القديمة؟",
+        "options": [
+            {
+                "text": "البروم",
+                "istrue": false
+            },
+            {
+                "text": "الزئبق",
+                "istrue": true
+            },
+            {
+                "text": "الجاليوم",
+                "istrue": false
+            },
+            {
+                "text": "السيزيوم",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "type": "💻 التقنية",
+        "question": "ما هي التقنية اللاسلكية قصيرة المدى المستخدمة للدفع الإلكتروني ونقل البيانات بلمسة واحدة؟",
+        "options": [
+            {
+                "text": "NFC",
+                "istrue": true
+            },
+            {
+                "text": "Bluetooth",
+                "istrue": false
+            },
+            {
+                "text": "GPS",
+                "istrue": false
+            },
+            {
+                "text": "Li-Fi",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "type": "🧩 لغز وتسلية",
+        "question": "أنا شيء يملك أسناناً كثيرة جداً ولكني لا أعض، فمن أنا؟",
+        "options": [
+            {
+                "text": "المنشار",
+                "istrue": false
+            },
+            {
+                "text": "المشط",
+                "istrue": true
+            },
+            {
+                "text": "القرش",
+                "istrue": false
+            },
+            {
+                "text": "المفتاح",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "type": "🧬 العلوم",
+        "question": "ما هو الطائر الذي يضع أكبر بيضة في العالم بالنسبة لحجم الطيور الحية؟",
+        "options": [
+            {
+                "text": "النعامة",
+                "istrue": true
+            },
+            {
+                "text": "النسر",
+                "istrue": false
+            },
+            {
+                "text": "البجعة",
+                "istrue": false
+            },
+            {
+                "text": "البومة",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "type": "⏳ التاريخ",
+        "question": "ما هي العملة الرسمية التي كانت تُستخدم في الإمبراطورية الرومانية القديمة؟",
+        "options": [
+            {
+                "text": "الدينار",
+                "istrue": false
+            },
+            {
+                "text": "الدرهم",
+                "istrue": false
+            },
+            {
+                "text": "الديناريوس (Denarius)",
+                "istrue": true
+            },
+            {
+                "text": "الجنيه",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "type": "📚 الأدب",
+        "question": "من هو الكاتب والروائي المصري الحائز على جائزة نوبل في الأدب عام 1988؟",
+        "options": [
+            {
+                "text": "طه حسين",
+                "istrue": false
+            },
+            {
+                "text": "نجيب محفوظ",
+                "istrue": true
+            },
+            {
+                "text": "عباس العقاد",
+                "istrue": false
+            },
+            {
+                "text": "توفيق الحكيم",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "type": "🌌 الفضاء",
+        "question": "أي كوكب من كواكب المجموعة الشمسية يدور حول نفسه باتجاه معاكس لمعظم الكواكب الأخرى؟",
+        "options": [
+            {
+                "text": "الزهرة",
+                "istrue": true
+            },
+            {
+                "text": "المريخ",
+                "istrue": false
+            },
+            {
+                "text": "زحل",
+                "istrue": false
+            },
+            {
+                "text": "نبتون",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "type": "⚽ الرياضة",
+        "question": "كم تبلغ المدة الزمنية المخصصة للشوط الإضافي الواحد في مباريات كرة القدم الإقصائية؟",
+        "options": [
+            {
+                "text": "10 دقائق",
+                "istrue": false
+            },
+            {
+                "text": "15 دقيقة",
+                "istrue": true
+            },
+            {
+                "text": "20 دقيقة",
+                "istrue": false
+            },
+            {
+                "text": "30 دقيقة",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "type": "🩺 الطب والتشريح",
+        "question": "ما هو الاسم العلمي للأنبوب العضلي الذي يربط البلعوم بالمعدة في الجهاز الهضمي؟",
+        "options": [
+            {
+                "text": "المريء",
+                "istrue": true
+            },
+            {
+                "text": "الحنجرة",
+                "istrue": false
+            },
+            {
+                "text": "القصبة الهوائية",
+                "istrue": false
+            },
+            {
+                "text": "الأمعاء الدقيقة",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "type": "🏛️ التاريخ العربي",
+        "question": "في أي مدينة عربية تأسست أول جامعة في العالم وما تزال تعمل حتى اليوم (جامعة القرويين)؟",
+        "options": [
+            {
+                "text": "فاس (المغرب)",
+                "istrue": true
+            },
+            {
+                "text": "القاهرة (مصر)",
+                "istrue": false
+            },
+            {
+                "text": "تونس (تونس)",
+                "istrue": false
+            },
+            {
+                "text": "بغداد (العراق)",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "type": "🧪 الكيمياء",
+        "question": "ما هو الغاز الذي يتسبب بظاهرة الاحتباس الحراري بشكل رئيسي وينتج عن احتراق الوقود الأحفوري؟",
+        "options": [
+            {
+                "text": "الأكسجين",
+                "istrue": false
+            },
+            {
+                "text": "النيتروجين",
+                "istrue": false
+            },
+            {
+                "text": "ثاني أكسيد الكربون",
+                "istrue": true
+            },
+            {
+                "text": "الأوزون",
+                "istrue": false
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "type": "💻 التقنية",
+        "question": "ما هو الاسم الشهير لأول شبكة كمبيوتر بدائية تم تطويرها من قبل وزارة الدفاع الأمريكية وكانت أساس الإنترنت؟",
+        "options": [
+            {
+                "text": "ARPANET",
+                "istrue": true
+            },
+            {
+                "text": "INTRANET",
+                "istrue": false
+            },
+            {
+                "text": "ETHERNET",
+                "istrue": false
+            },
+            {
+                "text": "WORLDNET",
+                "istrue": false
+            }
+        ]
+    }
+]
